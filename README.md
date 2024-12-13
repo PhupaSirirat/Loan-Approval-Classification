@@ -22,7 +22,7 @@ You can install the required libraries using the following command:
 pip install pandas numpy scikit-learn matplotlib seaborn
 ```
 
-## Results
+## Results (Random Forest Model)
 ```Classification Report:
                precision    recall  f1-score   support
 
@@ -35,5 +35,6 @@ weighted avg       0.93      0.93      0.93      9000
 ```
 
 ## Confusion Matrix 
-![image](https://github.com/user-attachments/assets/e864e301-8cdc-4c10-bd70-8ce33118820f)
+![image](https://github.com/user-attachments/assets/e707ab8a-eb3c-4463-ba6b-8f86a5f17108)
+
 
