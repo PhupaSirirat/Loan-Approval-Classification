@@ -35,6 +35,10 @@ weighted avg       0.93      0.93      0.93      9000
 ```
 
 ## Confusion Matrix 
-![image](https://github.com/user-attachments/assets/e707ab8a-eb3c-4463-ba6b-8f86a5f17108)
+![image](https://github.com/user-attachments/assets/0e6fbcaa-6063-4944-8131-b7d5dced453f)
+
+## Feature Importance
+![image](https://github.com/user-attachments/assets/7202dc10-d7bb-4fec-9e98-19cc894ba820)
+
 
 
